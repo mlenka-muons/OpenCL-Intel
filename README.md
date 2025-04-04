@@ -2,7 +2,7 @@
 ## Git  
 1. Download git 
 ## Intel OpenCL runtime
-1. Download latest Intel OpenCL runtime [here](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-cpu-runtime-for-opencl-applications-with-sycl-support.html). Scroll down to see where the libraries will be installed. 
+1. Download latest Intel OpenCL runtime [here](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-cpu-runtime-for-opencl-applications-with-sycl-support.html). Scroll down on that download page to see where the libraries will be installed. 
 2. Add OpenCL runtime bin folder to path,  To know more about windows  `PATH` variable watch [this](https://www.youtube.com/watch?v=P8zMeCY2qtc) video.
 ## chocolatey
 1. Install chocolatey using the guide provided [here](https://www.liquidweb.com/blog/how-to-install-chocolatey-on-windows/)
